@@ -1,0 +1,11 @@
+kpt_shape:
+- 17
+- 3
+names:
+  0: person
+  1: chong
+  2: hakem
+  3: hong
+path: /home/muhlabws4/dosyalar/YoloTrain/data/tkdKeypoint
+train: train.txt
+val: val.txt
