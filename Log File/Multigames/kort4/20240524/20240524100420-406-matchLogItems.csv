@@ -1,0 +1,7 @@
+eventTime,roundNumber,roundTime,systemTime,matchLogItemType,entryValue,blueAddPoints,redAddPoints,score,blueGeneralPoints,redGeneralPoints,bluePoints,redPoints,bluePenalties,redPenalties,blueTotalPenalties,redTotalPenalties,blueGoldenPointHits,redGoldenPointHits,blueGoldenPointPenalties,redGoldenPointPenalties,goldenPointRound,entryValue,blueVideoQuota,redVideoQuota
+1716534260504,1,1716526890000,1716534260504,START_MATCH,,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,,1,1
+1716534260505,1,1716526890000,1716534260505,KYE_SHI,,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,,1,1
+1716534320514,1,1716526890000,1716534320514,TIMEOUT,,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,,1,1
+1716534336994,1,1716526890000,1716534336994,MATCH_FINAL_NEEDS_CONFIRM_DECISION,,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,,1,1
+1716534345760,1,1716526890000,1716534345760,MATCH_FINISHED,BLUE - DSQ,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,BLUE - DSQ,1,1
+1716534346200,1,1716526890000,1716534346200,MATCH_FINISHED,BLUE - DSQ,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,BLUE - DSQ,1,1

@@ -1,0 +1,3 @@
+eventTime,roundNumber,roundTime,systemTime,matchLogItemType,entryValue,blueAddPoints,redAddPoints,score,blueGeneralPoints,redGeneralPoints,bluePoints,redPoints,bluePenalties,redPenalties,blueTotalPenalties,redTotalPenalties,blueGoldenPointHits,redGoldenPointHits,blueGoldenPointPenalties,redGoldenPointPenalties,goldenPointRound,entryValue,blueVideoQuota,redVideoQuota
+1716551105304,1,1716523290000,1716551105304,MATCH_FINAL_NEEDS_CONFIRM_DECISION,,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,,1,1
+1716551115270,1,1716523290000,1716551115270,MATCH_FINISHED,RED - DSQ,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,RED - DSQ,1,1

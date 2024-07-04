@@ -1,0 +1,7 @@
+eventTime,roundNumber,roundTime,systemTime,matchLogItemType,entryValue,blueAddPoints,redAddPoints,score,blueGeneralPoints,redGeneralPoints,bluePoints,redPoints,bluePenalties,redPenalties,blueTotalPenalties,redTotalPenalties,blueGoldenPointHits,redGoldenPointHits,blueGoldenPointPenalties,redGoldenPointPenalties,goldenPointRound,entryValue,blueVideoQuota,redVideoQuota
+1716715833293,1,1716699720000,1716715833293,START_MATCH,,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,,1,1
+1716715833294,1,1716699720000,1716715833294,START_ROUND,,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,,1,1
+1716715840790,1,1716699712505,1716715840790,RED_JUDGE_BODY_TECH,1,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,1,1,1
+1716715841113,1,1716699712191,1716715841113,TIMEOUT,,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,,1,1
+1716715856127,1,1716699712191,1716715856127,MATCH_FINAL_NEEDS_CONFIRM_DECISION,,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,,1,1
+1716715868963,1,1716699712191,1716715868963,MATCH_FINISHED,RED - PUN,0,0,0-0,0,0,0,0,0,0,0,0,0,0,0,0,false,RED - PUN,1,1
